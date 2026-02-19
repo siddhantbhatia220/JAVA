@@ -1,0 +1,131 @@
+* How many base cases does Fibonacci recursion have?
+  ● 0
+  ● 1
+  ● 2
+  ● 3
+-> C) 2
+
+* Which type of recursion is Fibonacci?
+  ● Tail recursion
+  ● Linear recursion
+  ● Tree recursion
+  ● Indirect recursion
+-> C) Tree recursion
+
+* What is the output of fib(4)?
+  ● 2
+  ● 3
+  ● 4
+  ● 5
+-> B) 3
+
+
+* How many base cases does Fibonacci recursion have?
+  ● 0
+  ● 1
+  ● 2
+  ● 3
+-> C) 2
+
+* Which type of recursion is Fibonacci?
+  ● Tail recursion
+  ● Linear recursion
+  ● Tree recursion
+  ● Indirect recursion
+-> C) Tree recursion
+
+* What is the output of fib(4)?
+  ● 2
+  ● 3
+  ● 4
+  ● 5
+-> B) 3
+
+* How many moves are required to solve Tower of Hanoi for n disks?
+  ● n2
+  ● 2n
+  ● 2n − 1
+  ● n!
+-> C) 2n-1
+
+* Which traversal style is used in lexicographical counting?
+  ● BFS
+  ● DFS
+  ● Greedy
+  ● DP
+-> B) DFS
+
+* Time complexity of Tower of Hanoi is:
+  ● O(n)
+  ● O(n2)
+  ● O(2n)
+  ● O(n!)
+-> C) O(2n)
+
+
+* Which sorting algorithm always runs in O(n log n)?
+ ● Quick Sort
+ ● Bubble Sort
+ ● Merge Sort
+ ● Selection Sort
+-> C
+
+* Worst case of Quick Sort occurs when:
+ ● Pivot is random
+ ● Pivot is smallest or largest
+ ● Array is empty
+ ● Array has duplicates
+-> B
+
+* Which algorithm uses extra memory?
+ ● Quick Sort
+ ● Merge Sort
+ ● Insertion Sort
+ ● Heap Sort
+-> B
+
+
+* What is the output of 5 ^ 5?
+-> 0
+
+* n & (n - 1) is used to:
+● a) Multiply
+● b) Remove rightmost set bit
+● c) Divide
+● d) Toggle bit
+-> b) Remove rightmost set bit
+
+* Total subsets of a set of size 4?
+-> 16
+
+
+* If no constructor is written, Java provides:
+  ● a) Error
+  ● b) Default constructor
+  ● c) Static constructor
+  ● d) Private constructor
+-> b) Default Contructor
+
+* Where are objects stored?
+  ● a) Stack
+  ● b) Heap
+  ● c) Method area
+  ● d) Cache
+-> b) Heap
+
+* Can constructor be private?
+-> Yes (Singleton concept)
+
+
+* Parent class of all exceptions?
+-> Throwable
+
+* Which exception is checked?
+-> IOException
+
+* What happens if exception is not handled?
+->Program terminates abnormally
+
+* Correct order of catch blocks?
+-> Specific -> General
+   try -> catch
