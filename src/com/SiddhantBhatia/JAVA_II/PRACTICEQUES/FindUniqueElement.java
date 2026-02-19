@@ -1,4 +1,4 @@
-package com.SiddhantBhatia.JAVA_II.BITMASKING.PRACTICEQUES;
+package com.SiddhantBhatia.JAVA_II.PRACTICEQUES;
 
 import java.util.*;
 
